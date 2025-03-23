@@ -1,4 +1,3 @@
 - Hi, I'm akhryss22👋
 - 👀 I’m interested in ... subjects that intersect Science, Technology, and Society (STS).
-- 🌱 I’m currently learning ... about EEG analysis
-- 👯 I’m looking to collaborate on ... nothing at the moment.
+- 🌱 I’m currently learning ... about EEG analysis.
